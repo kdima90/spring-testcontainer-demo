@@ -1,0 +1,1 @@
+create sequence person.hibernate_sequence start with 1;
